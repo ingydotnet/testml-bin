@@ -1,0 +1,28 @@
+=meta: 0.0.2
+
+name: TestML-Bin
+version: 0.01
+abstract: Bin Script for TestML
+homepage: http://testml.org
+language: perl
+license: perl
+copyright: 2017
+
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  homepage: http://ingy.net
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+
+devel:
+  git: https://github.com/ingydotnet/testml-bin-pm
+  bug: https://github.com/ingydotnet/testml-bin-pm/issues
+  irc: irc.freenode.net#testml
+
+requires:
+  perl: 5.8.1
+
+test:
+  cmd: prove -lv test/
