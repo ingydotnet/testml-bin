@@ -12,7 +12,7 @@ TestML::Bin - Bin Script for TestML
 
 =head1 Version
 
-This document describes L<TestML::Bin> version B<0.01>.
+This document describes L<TestML::Bin> version B<0.02>.
 
 =head1 Synopsis
 

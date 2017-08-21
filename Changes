@@ -1,4 +1,10 @@
 ---
+version: 0.02
+date:    Mon Aug 21 15:29:26 PDT 2017
+changes:
+- Move bin/testml-perl5 to bin/testml-pl5 because of way that prove works with
+  hashbangs.
+---
 version: 0.01
 date:    Mon Jul 17 10:44:52 PDT 2017
 changes:
