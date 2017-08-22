@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: TestML-Bin
-version: 0.02
+version: 0.03
 abstract: Bin Script for TestML
 homepage: http://testml.org
 language: perl
